@@ -1,29 +1,31 @@
 aboutMe:
-  name: Full Name
+  name: Bailey Burnsed
   title: Full Stack Developer
-  bio: This is a short bio about me.
-  long_summary_title: My Journey
+  bio: Just some nerd on the Internet
+  long_summary_title: ApieNerd
   long_summary: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.
   hashtags: 
     - '#javascript'
-    - '#traveler'
-    - '#dancer'
+    - '#hacker'
+    - '#artist'
     - '#chef'
+    - '#gamedev'
+    - '#FOSS'
   timeline: 
-    - event: 1000 AD
+    - event: 1995 AD
       caption: I was born.
       desc: Lorem ipsum dolor sit amet, no nam oblique veritus. Commune scaevola imperdiet nec ut, sed euismod convenire principes at. Est et nobis iisque percipit, an vim zril disputando voluptatibus, vix an salutandi sententiae.
-    - event: 1403 AD
-      caption: I went to school.
+    - event: 2005 AD
+      caption: I build my first Game Engine.
       desc: Lorem ipsum dolor sit amet, no nam oblique veritus. Commune scaevola imperdiet nec ut, sed euismod convenire principes at. Est et nobis iisque percipit, an vim zril disputando voluptatibus, vix an salutandi sententiae.
-    - event: 1402 AD
-      caption: I graduated.
+    - event: 2019 AD 
+      caption: I went Pro.
       desc: Lorem ipsum dolor sit amet, no nam oblique veritus. Commune scaevola imperdiet nec ut, sed euismod convenire principes at. Est et nobis iisque percipit, an vim zril disputando voluptatibus, vix an salutandi sententiae.
   skills:
-    - name: Java
+    - name: C
       rank: 8
     - name: Node.js
-      rank: 9
+      rank: 5
     - name: HTML
       rank: 10
     - name: CSS
@@ -31,12 +33,16 @@ aboutMe:
     - name: Javascript
       rank: 7
     - name: Python
-      rank: 8
+      rank: 10
     - name: MySQL
       rank: 9
     - name: Go
-      rank: 5
+      rank: 7
     - name: MongoDB
       rank: 10
-    - name: Ruby
-      rank: 7
+    - name: Rust
+      rank: 8
+    - name: Godot
+      rank: 8
+    - name: Linux
+      rank: 10

@@ -56,11 +56,11 @@ export default {
   components: {},
   data: () => ({
     icons: [
-      "fab fa-facebook",
+      "fab fa-discord",
       "fab fa-twitter",
-      "fab fa-google-plus",
+      "fab fa-mastodon",
       "fab fa-linkedin",
-      "fab fa-instagram"
+      "fab fa-github"
     ]
   })
 };
