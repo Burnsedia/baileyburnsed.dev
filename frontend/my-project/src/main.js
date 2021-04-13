@@ -22,11 +22,11 @@ export default function(Vue, { appOptions, head }) {
     theme: {
       themes: {
         light: {
-          primary: colors.grey.darken1,
-          secondary: colors.blueGrey,
-          accent: colors.indigo,
+          primary: colors.grey.darken3,
+          secondary: colors.grey.darken1,
+          accent: colors.blueGrey.darken3,
           error: "#FF5252",
-          info: "#2196F3",
+          info: colors.lightGreen,
           success: "#4CAF50",
           warning: "#FFC107"
         }

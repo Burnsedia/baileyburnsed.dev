@@ -1,20 +1,21 @@
 aboutMe:
   name: Bailey Burnsed
-  title: Full Stack Developer
+  title: FOSS Developer and Didital Right Activist
   bio: Just some nerd on the Internet
-  long_summary_title: ApieNerd
-  long_summary: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.
+  long_summary_title: FOSS developer, Cybersecrity resourcher and Digital Rights activist
+  long_summary: Some Autisim FOSS nerd who loves the Unix Philosophy, building and playing retro sytle games and hacking on some project. I am now switching to Arch Linux and moving from I3WM to Suckless Software.
   hashtags: 
-    - '#javascript'
+    - '#Web3'
     - '#hacker'
     - '#artist'
     - '#chef'
     - '#gamedev'
     - '#FOSS'
+    - '#FSF'
   timeline: 
     - event: 1995 AD
       caption: I was born.
-      desc: Lorem ipsum dolor sit amet, no nam oblique veritus. Commune scaevola imperdiet nec ut, sed euismod convenire principes at. Est et nobis iisque percipit, an vim zril disputando voluptatibus, vix an salutandi sententiae.
+      desc: It begains!!
     - event: 2005 AD
       caption: I build my first Game Engine.
       desc: Lorem ipsum dolor sit amet, no nam oblique veritus. Commune scaevola imperdiet nec ut, sed euismod convenire principes at. Est et nobis iisque percipit, an vim zril disputando voluptatibus, vix an salutandi sententiae.
@@ -22,27 +23,21 @@ aboutMe:
       caption: I went Pro.
       desc: Lorem ipsum dolor sit amet, no nam oblique veritus. Commune scaevola imperdiet nec ut, sed euismod convenire principes at. Est et nobis iisque percipit, an vim zril disputando voluptatibus, vix an salutandi sententiae.
   skills:
-    - name: C
-      rank: 8
-    - name: Node.js
-      rank: 5
-    - name: HTML
-      rank: 10
-    - name: CSS
-      rank: 10
-    - name: Javascript
-      rank: 7
     - name: Python
       rank: 10
-    - name: MySQL
-      rank: 9
     - name: Go
       rank: 7
-    - name: MongoDB
-      rank: 10
     - name: Rust
       rank: 8
     - name: Godot
       rank: 8
     - name: Linux
       rank: 10
+    - name: Git
+      rank: 9
+    - name: Web3
+      rank: 6
+    - name: Flask
+      rank: 7
+    - name: Django
+      rank: 5
