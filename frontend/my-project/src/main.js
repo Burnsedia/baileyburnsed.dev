@@ -22,13 +22,15 @@ export default function(Vue, { appOptions, head }) {
     theme: {
       themes: {
         light: {
-          primary: colors.grey.darken1,
-          secondary: colors.blueGrey,
-          accent: colors.indigo,
+          base: colors.grey.darken4,
+          primary: colors.grey.darken4,
+          secondary: colors.blueGrey.darken4,
+          accent: colors.grey.darken2,
           error: "#FF5252",
-          info: "#2196F3",
+          info: colors.blueGrey.darken3,
           success: "#4CAF50",
           warning: "#FFC107"
+          
         }
       }
     }

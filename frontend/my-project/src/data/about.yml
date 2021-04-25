@@ -3,40 +3,41 @@ aboutMe:
   title: Full Stack Developer
   bio: This is a short bio about me.
   long_summary_title: My Journey
-  long_summary: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto. Error doloremque omnis animi, eligendi magni a voluptatum, vitae, Error doloremque omnis animi, eligendi magni a voluptatum, vitae, consequuntur rerum illum odit fugit assumenda rem dolores inventore iste reprehenderit maxime! Iusto.
+  long_summary: I am a Developer, Digital artist and a Linux enthusiast. I am developing FOSS tools to make it possible for normal people to have digital privacy and online secrity. I am also developing a Space Sim in the style of the greate space sims of the 90's like FreeSpace and Elite.
   hashtags: 
-    - '#javascript'
-    - '#traveler'
-    - '#dancer'
-    - '#chef'
+    - '#Rust'
+    - '#Godot'
+    - '#Dart/Flutter'
+    - '#Cyber Security'
+    - '#FOSS'
   timeline: 
-    - event: 1000 AD
+    - event: 1995 AD
       caption: I was born.
-      desc: Lorem ipsum dolor sit amet, no nam oblique veritus. Commune scaevola imperdiet nec ut, sed euismod convenire principes at. Est et nobis iisque percipit, an vim zril disputando voluptatibus, vix an salutandi sententiae.
-    - event: 1403 AD
-      caption: I went to school.
-      desc: Lorem ipsum dolor sit amet, no nam oblique veritus. Commune scaevola imperdiet nec ut, sed euismod convenire principes at. Est et nobis iisque percipit, an vim zril disputando voluptatibus, vix an salutandi sententiae.
-    - event: 1402 AD
-      caption: I graduated.
-      desc: Lorem ipsum dolor sit amet, no nam oblique veritus. Commune scaevola imperdiet nec ut, sed euismod convenire principes at. Est et nobis iisque percipit, an vim zril disputando voluptatibus, vix an salutandi sententiae.
+      desc: It begains. 
+    - event: 2000 AD
+      caption: I started programming  
+      desc: I build my first game in C++, SDL and OpenGL, saidly the code was lost, I lost my source forge account. 
+    - event: 2015 AD
+      caption: I build my first game in years
+      desc: I build a simple space shooter, which restarted my love of coding.
+    - event: 2015 AD
+      caption: stated freelancings
+      desc: Frelances web development with flask, django and ruby rails, I also build some mobile apps in Xamerin C# and Unity.
+    - event: 2016 AD
+      caption: Fell in love with Open Source
+      desc: Microsoft, Apple and Google cansoled my developer accouts, stealing my apps and I started using Linux, I have been a FOSS adviget and Linux neck beard ever sences
   skills:
-    - name: Java
-      rank: 8
+    - name: Dart/Flutter
+      rank: 9
+    - name: Godot
+      rank: 9
     - name: Node.js
       rank: 9
-    - name: HTML
-      rank: 10
-    - name: CSS
-      rank: 10
-    - name: Javascript
-      rank: 7
     - name: Python
-      rank: 8
-    - name: MySQL
-      rank: 9
-    - name: Go
+      rank: 10
+    - name: JAMS Stack
       rank: 5
+    - name: Rust
+      rank: 7
     - name: MongoDB
       rank: 10
-    - name: Ruby
-      rank: 7

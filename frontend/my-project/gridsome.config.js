@@ -5,12 +5,24 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'My New Blog',
+  siteName: 'Bailey Burnsed',
   plugins: [
     {
       use: "@gridsome/source-filesystem",
       options: {
         path: "articles/**/*.md",
+        typeName: "Article",
+        resolveAbsolutePaths: true,
+        remark: {
+          externalLinksTarget: "_blank",
+          externalLinksRel: ["nofollow", "noopener", "noreferrer"]
+        }
+      }
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "portflio/**/*.md",
         typeName: "Article",
         resolveAbsolutePaths: true,
         remark: {
