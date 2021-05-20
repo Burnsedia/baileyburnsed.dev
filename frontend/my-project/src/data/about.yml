@@ -1,5 +1,4 @@
 aboutMe:
-<<<<<<< HEAD
   name: Bailey Burnsed
   title: FOSS Developer and Didital Right Activist
   bio: Just some nerd on the Internet
@@ -42,47 +41,4 @@ aboutMe:
       rank: 7
     - name: Django
       rank: 5
-=======
-  name: Full Name
-  title: Full Stack Developer
-  bio: This is a short bio about me.
-  long_summary_title: My Journey
-  long_summary: I am a Developer, Digital artist and a Linux enthusiast. I am developing FOSS tools to make it possible for normal people to have digital privacy and online secrity. I am also developing a Space Sim in the style of the greate space sims of the 90's like FreeSpace and Elite.
-  hashtags: 
-    - '#Rust'
-    - '#Godot'
-    - '#Dart/Flutter'
-    - '#Cyber Security'
-    - '#FOSS'
-  timeline: 
-    - event: 1995 AD
-      caption: I was born.
-      desc: It begains. 
-    - event: 2000 AD
-      caption: I started programming  
-      desc: I build my first game in C++, SDL and OpenGL, saidly the code was lost, I lost my source forge account. 
-    - event: 2015 AD
-      caption: I build my first game in years
-      desc: I build a simple space shooter, which restarted my love of coding.
-    - event: 2015 AD
-      caption: stated freelancings
-      desc: Frelances web development with flask, django and ruby rails, I also build some mobile apps in Xamerin C# and Unity.
-    - event: 2016 AD
-      caption: Fell in love with Open Source
-      desc: Microsoft, Apple and Google cansoled my developer accouts, stealing my apps and I started using Linux, I have been a FOSS adviget and Linux neck beard ever sences
-  skills:
-    - name: Dart/Flutter
-      rank: 9
-    - name: Godot
-      rank: 9
-    - name: Node.js
-      rank: 9
-    - name: Python
-      rank: 10
-    - name: JAMS Stack
-      rank: 5
-    - name: Rust
-      rank: 7
-    - name: MongoDB
-      rank: 10
->>>>>>> FrontEnd
+

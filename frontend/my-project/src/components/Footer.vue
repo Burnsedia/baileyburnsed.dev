@@ -25,19 +25,11 @@ export default {
   components: {},
   data: () => ({
     icons: [
-<<<<<<< HEAD
-      "fab fa-discord",
-      "fab fa-twitter",
-      "fab fa-mastodon",
-      "fab fa-linkedin",
-      "fab fa-github"
-=======
       "fab fa-github",
       "fab fa-mastodon",
       "fab fa-twitch",
       "fab fa-youtube",
       "fab fa-discord"
->>>>>>> FrontEnd
     ]
   })
 };
