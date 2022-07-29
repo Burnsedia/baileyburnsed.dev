@@ -5,9 +5,9 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Gridsome Minimal Tailwind Starter',
-  siteUrl: '',
-  siteDescription: 'A simple starter for Gridsome using TailwindCSS and Markdown',
+  siteName: 'BaileyBurnsed.dev',
+  siteUrl: 'baileyburnsed.dev',
+  siteDescription: 'Just a nerdy tech blog',
   templates: {
     Post: '/blog/:title'
   },
